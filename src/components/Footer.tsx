@@ -7,11 +7,11 @@ const Footer = () => {
         Made with <span className="text-red-500">❤</span> by{' '}
         <a
           className="cursor-pointer text-red-500"
-          href="https://github.com/NarSiiiS"
+          href="https://github.com/bugbounted"
           target="_blank"
           rel="noreferrer"
         >
-          NarSiiiS
+          BUGBOUNTED
         </a>
       </p>
     </footer>
