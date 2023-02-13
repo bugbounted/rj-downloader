@@ -25,7 +25,7 @@ const Header = () => {
     },
     {
       name: 'Github',
-      path: 'https://github.com/NarSiiiS/rjdownloader',
+      path: 'https://github.com/bugbounted/rj-downloader',
     },
   ];
   const { width } = useViewportSize();
